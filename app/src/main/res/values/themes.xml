@@ -1,0 +1,4 @@
+<resources>
+    <!-- NoActionBar because we add our own Toolbar in activity_main.xml -->
+    <style name="Theme.Assignment2" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
